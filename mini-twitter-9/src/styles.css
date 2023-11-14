@@ -1,0 +1,54 @@
+.App {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.tweet-box {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.tweet-box textarea {
+  flex-grow: 1;
+  padding: 10px;
+  resize: none;
+}
+
+.tweet-list {
+  list-style: none;
+  padding: 0;
+}
+
+.tweet {
+  display: flex;
+  gap: 10px;
+  padding: 10px 0;
+  border-bottom: 1px solid #e1e8ed;
+}
+
+.tweet img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.tweet-actions {
+  margin-top: 10px;
+  gap: 5px;
+  display: flex;
+  align-items: center;
+}
+このコードは、Twitterのベーシックなフロントエンドデザインを模倣したものです。これをベースに、さらなるカスタマイズや機能の追加を行ってください。
+
+
+
+
+
